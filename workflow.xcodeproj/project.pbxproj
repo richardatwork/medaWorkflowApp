@@ -17,6 +17,7 @@
 		79660F511C71C5770061ECA6 /* workflowTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79660F501C71C5770061ECA6 /* workflowTests.swift */; };
 		79660F5C1C71C5770061ECA6 /* workflowUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 79660F5B1C71C5770061ECA6 /* workflowUITests.swift */; };
 		79660F6A1C71D3F40061ECA6 /* workflow_app_v01_Page_1.png in Resources */ = {isa = PBXBuildFile; fileRef = 79660F691C71D3F40061ECA6 /* workflow_app_v01_Page_1.png */; };
+		79AFB1661C71D96100D4B23C /* Launch 1024 x 768@1x.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 79AFB1651C71D96100D4B23C /* Launch 1024 x 768@1x.pdf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		79660F5B1C71C5770061ECA6 /* workflowUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = workflowUITests.swift; sourceTree = "<group>"; };
 		79660F5D1C71C5770061ECA6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		79660F691C71D3F40061ECA6 /* workflow_app_v01_Page_1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = workflow_app_v01_Page_1.png; path = "../../../../../../../Volumes/Sales and marketing/TheNewFolder/Marketing/NPD/workflowApp/PDF_Version_Saves/PNG_v1/workflow_app_v01_Page_1.png"; sourceTree = "<group>"; };
+		79AFB1651C71D96100D4B23C /* Launch 1024 x 768@1x.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; name = "Launch 1024 x 768@1x.pdf"; path = "../../../../../../../Volumes/Sales and marketing/TheNewFolder/Marketing/NPD/workflowApp/PDF_Export_1x/Launch 1024 x 768@1x.pdf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -111,6 +113,7 @@
 				79660F421C71C5770061ECA6 /* Assets.xcassets */,
 				79660F441C71C5770061ECA6 /* LaunchScreen.storyboard */,
 				79660F691C71D3F40061ECA6 /* workflow_app_v01_Page_1.png */,
+				79AFB1651C71D96100D4B23C /* Launch 1024 x 768@1x.pdf */,
 				79660F471C71C5770061ECA6 /* Info.plist */,
 			);
 			path = workflow;
@@ -240,6 +243,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				79660F461C71C5770061ECA6 /* LaunchScreen.storyboard in Resources */,
+				79AFB1661C71D96100D4B23C /* Launch 1024 x 768@1x.pdf in Resources */,
 				79660F431C71C5770061ECA6 /* Assets.xcassets in Resources */,
 				79660F411C71C5770061ECA6 /* Main.storyboard in Resources */,
 				79660F6A1C71D3F40061ECA6 /* workflow_app_v01_Page_1.png in Resources */,
@@ -503,6 +507,7 @@
 				79660F621C71C5770061ECA6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		79660F631C71C5770061ECA6 /* Build configuration list for PBXNativeTarget "workflowTests" */ = {
 			isa = XCConfigurationList;
@@ -511,6 +516,7 @@
 				79660F651C71C5770061ECA6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		79660F661C71C5770061ECA6 /* Build configuration list for PBXNativeTarget "workflowUITests" */ = {
 			isa = XCConfigurationList;
@@ -519,6 +525,7 @@
 				79660F681C71C5770061ECA6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
