@@ -41,7 +41,7 @@
 		79660F341C71C5770061ECA6 /* workflow.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = workflow.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		79660F371C71C5770061ECA6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		79660F391C71C5770061ECA6 /* RootViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RootViewController.swift; sourceTree = "<group>"; };
-		79660F3B1C71C5770061ECA6 /* DataViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataViewController.swift; sourceTree = "<group>"; };
+		79660F3B1C71C5770061ECA6 /* DataViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = DataViewController.swift; path = /Users/richard/Desktop/2013/Meda_WorkFlow/medaWorkflowApp/workflow/DataViewController.swift; sourceTree = "<absolute>"; };
 		79660F3D1C71C5770061ECA6 /* ModelController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModelController.swift; sourceTree = "<group>"; };
 		79660F401C71C5770061ECA6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		79660F421C71C5770061ECA6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
